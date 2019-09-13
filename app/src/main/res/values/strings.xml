@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="word">word: </string>
+    <string name="hint">any words</string>
+    <string name="post">post data</string>
+    <string name="trans">trans</string>
+    <string name="sub">Sub Activity</string>
+    <string name="return_sub">RETURN</string>
+    <string name="user_id">USER_ID</string>
+    <string name="user_name">USER_NAME</string>
+    <string name="seq">SEQ</string>
+    <string name="date">DATE</string>
+</resources>
